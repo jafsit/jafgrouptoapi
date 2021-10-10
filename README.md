@@ -3,7 +3,7 @@ This is RestAssured based api testing sample project for testing Todo API's.
 
 ### **_Steps:_**
 ##### **_Build:_**
-- Clone project : git clone https://github.com/jafsit/grouptoapiautomation.git 
+- Clone project : git clone https://github.com/jafsit/jafgrouptoapi
 - Import as maven project into IntelliJ IDE.
 - Navigate to project directory and Build project by running following command in terminal : **_mvn clean install_**.
 
